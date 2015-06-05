@@ -1,0 +1,17 @@
+{
+  "name": "angular-w",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pafford14/angular-w",
+  "authors": [
+    "Brien Pafford <bcpaff@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
